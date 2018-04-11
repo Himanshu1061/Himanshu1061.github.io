@@ -1,4 +1,5 @@
-Restaurant
+CuFooDies
 ==========
 
-A template for Restaurant business
+CuFoodies is an online food odering system in Chandigarh University.
+
